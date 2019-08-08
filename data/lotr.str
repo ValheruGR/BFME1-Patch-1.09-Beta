@@ -6575,7 +6575,7 @@ CONTROLBAR:KnifeFighter
 END
 
 CONTROLBAR:ToolTipKnifeFighter
-"Required: Rank 2 \n left click to activate \n Alternate melee attack \n +20% Armor"
+"Required: Rank 2 \n left click to activate \n Alternate melee attack \n +20% Armor and 35% speed"
 END
 
 CONTROLBAR:DwarfToss
@@ -10322,6 +10322,10 @@ CONTROLBAR:TooltipOutpostUnpack
 "Build Outpost"
 END
 
+CONTROLBAR:ToolTipLegolasLeadership
+"Required: Rank 3 \n Leadership bonus to nearby archers \n +50% Armor and Fear Resistance \n Passive ability"
+END
+
 CONTROLBAR:ConstructEconomyPlot
 "Settlement"
 END
@@ -10527,7 +10531,7 @@ CONTROLBAR:FlagsUpgrade
 END
 
 CONTROLBAR:ToolTipFlagsUpgrade
-"Grants a bonus to nearby troops \n +50% Armor +125% Damage"
+"Grants a bonus to nearby troops \n +50% Armor +25% Damage"
 END
 
 CONTROLBAR:ToolTipGondorBuildStable
@@ -11287,7 +11291,7 @@ CONTROLBAR:ToolTipBuildAragorn
 END
 
 CONTROLBAR:GondorAragornRecruit
-"Hero Unit. \n Recruit the Heir to the throne of Gondor. \n 5 Command Points"
+"Hero Unit. \n Recruit the Heir to the throne of Gondor."
 END
 
 CONTROLBAR:GondorAragornRevive
@@ -11355,7 +11359,7 @@ CONTROLBAR:ToolTipBuildGandalf
 END
 
 CONTROLBAR:GandalfTheWhiteRecruit
-"Hero Unit.\n Recruit a wizard armed with mighty magical powers \n 10 Command Points"
+"Hero Unit.\n Recruit a wizard armed with mighty magical powers"
 END
 
 CONTROLBAR:GandalfTheWhiteRevive
@@ -11547,7 +11551,7 @@ CONTROLBAR:ToolTipBuildGimli
 END
 
 CONTROLBAR:RohanGimliRecruit
-"Hero Unit. \n Recruit the Dwarf of the Lonely Mountain \n 5 Command Points"
+"Hero Unit. \n Recruit the Dwarf of the Lonely Mountain"
 END
 
 CONTROLBAR:RohanGimliRevive
@@ -11579,7 +11583,7 @@ CONTROLBAR:ToolTipBuildLegolas
 END
 
 CONTROLBAR:RohanLegolasRecruit
-"Hero Unit. \n Recruit the Prince of the Mirkwood Elves \n 5 Command Points"
+"Hero Unit. \n Recruit the Prince of the Mirkwood Elves"
 END
 
 CONTROLBAR:RohanLegolasRevive
@@ -12611,7 +12615,7 @@ CONTROLBAR:ToolTipMount
 END
 
 CONTROLBAR:ToolTipShadowfax
-"Required: Rank 5 and Gandalf the White \n Left click to mount horse \n +25% Armor vs. Footmen and Cavalry \n -50% Armor vs. Archers and Pikes \n"
+"Required: Rank 5 \n Left click to mount horse \n +25% Armor vs. Footmen and Cavalry \n -50% Armor vs. Archers and Pikes \n"
 END
 
 CONTROLBAR:UseSword
