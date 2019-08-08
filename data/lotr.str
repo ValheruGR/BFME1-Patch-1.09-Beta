@@ -12731,7 +12731,7 @@ CONTROLBAR:FaramirKnightRanger
 END
 
 CONTROLBAR:ToolTipFaramirKnightRanger
-"Required: Rank 3 \n Switch between Knight and Ranger modes \n left click to activate"
+"Switch between Knight and Ranger modes \n left click to activate"
 END
 
 CONTROLBAR:ToggleShieldWallFormation
