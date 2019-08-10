@@ -12691,7 +12691,7 @@ CONTROLBAR:ThrowSpear
 END
 
 CONTROLBAR:ToolTipThrowSpear
-"Required: Rank 4 \n Single powerful and fast-recharge ranged attack \n left click then right click on target"
+"Required: Rank 4 \n Single powerful ranged attack, deals critical damage to monsters. \n left click then right click on target"
 END
 
 CONTROLBAR:HornofGondor
