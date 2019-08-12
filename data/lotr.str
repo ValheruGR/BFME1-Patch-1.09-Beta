@@ -6363,11 +6363,23 @@ CONTROLBAR:ToolTipToggleRArcherSkirmishToLineFormation
 END
 
 CONTROLBAR:ToolTipToggleTowerGuardLineToShieldWallFormation
-"+40% Armor, -50% Speed"
+"+50% Armor, -40% Speed"
 END
 
 CONTROLBAR:ToolTipToggleTowerGuardShieldWallToLineFormation
 "No bonus"
+END
+
+CONTROLBAR:RohanTreeBeardRecruit
+"Hero Unit. Recruit The Oldest of the Ents"
+END
+
+CONTROLBAR:RohanTreeBeardRevive
+"Revive the fallen Hero, Treebeard"
+END
+
+CONTROLBAR:RohanTreeBeardHotkey
+"Tree&beard"
 END
 
 CONTROLBAR:RevealArea
@@ -10979,7 +10991,7 @@ CONTROLBAR:Taint
 END
 
 CONTROLBAR:ToolTipTaint
-"Taints an area of terrain. \n All ally units get +50% Armor \n All enemy units lose all leadership bonuses \n Does not affect Heroes \n Left click then right click on target"
+"Taints an area of terrain. \n All ally units get +45% Armor \n All enemy units lose all leadership bonuses \n Does not affect Heroes \n Left click then right click on target"
 END
 
 CONTROLBAR:EyeofSauron
@@ -11079,7 +11091,7 @@ CONTROLBAR:ElvenWood
 END
 
 CONTROLBAR:ToolTipElvenWood
-"Creates lush terrain. \n All ally units get +50% Armor \n All enemy units lose all leadership bonuses \n Does not affect Heroes \n Left click then right click on target"
+"Creates lush terrain. \n All ally units get +45% Armor \n All enemy units lose all leadership bonuses \n Does not affect Heroes \n Left click then right click on target"
 END
 
 CONTROLBAR:SummonEntAllies
@@ -12691,7 +12703,7 @@ CONTROLBAR:ThrowSpear
 END
 
 CONTROLBAR:ToolTipThrowSpear
-"Required: Rank 4 \n Single powerful ranged attack, deals critical damage to monsters. \n left click then right click on target"
+"Required: Rank 3 \n Single powerful ranged attack, deals critical damage to monsters. \n left click then right click on target"
 END
 
 CONTROLBAR:HornofGondor
