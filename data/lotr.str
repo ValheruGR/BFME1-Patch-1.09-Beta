@@ -12711,7 +12711,7 @@ CONTROLBAR:HornofGondor
 END
 
 CONTROLBAR:ToolTipHornofGondor
-"Required: Rank 2 \n Stuns enemies with terror \n left click to activate"
+"Required: Rank 3 \n Stuns enemies with terror \n left click to activate"
 END
 
 CONTROLBAR:WoundingArrow
