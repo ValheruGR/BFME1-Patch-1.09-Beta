@@ -12187,7 +12187,7 @@ CONTROLBAR:DescriptionConstructMordorDrummerTrolls
 END
 
 CONTROLBAR:TooltipConstructMordorDrummerTrolls
-"Required: Level 2 Troll Cage \n Strong vs. Bowmen \n Weak vs. siege \n Leadership bonus: \n +50% Armor, +50% Damage +200% Experience"
+"Required: Level 2 Troll Cage \n Strong vs. Bowmen \n Weak vs. siege \n Leadership bonus: \n +50% Armor, +50% Damage +100% Experience"
 END
 
 CONTROLBAR:ConstructMordorBatteringRam
@@ -12331,7 +12331,7 @@ CONTROLBAR:ToolTipFaramirLeadership
 END
 
 CONTROLBAR:ToolTipBoromirLeadership
-"Required: Rank 4 \n Leadership bonus to nearby troops \n +100% Damage \n Passive ability"
+"Required: Rank 4 \n Leadership bonus to nearby troops \n +75% Damage \n Passive ability"
 END
 
 CONTROLBAR:ToolTipCaptainofGondorBoromir
@@ -12355,7 +12355,7 @@ CONTROLBAR:ToolTipGandalfLeadership
 END
 
 CONTROLBAR:ToolTipLurtzLeadership
-"Required: Rank 5 \n Leadership bonus to nearby troops \n +100% Damage \n Passive ability"
+"Required: Rank 5 \n Leadership bonus to nearby troops \n +75% Damage \n Passive ability"
 END
 
 CONTROLBAR:ToolTipWitchKingLeadership
