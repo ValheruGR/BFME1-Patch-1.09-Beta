@@ -6931,7 +6931,7 @@ UPGRADE:StoneworkerUpgradeNumenorStonework
 END
 
 UPGRADE:StoneworkerUpgradeToUseFireArrows
-"+125% damage to Defense Towers and Keep Archers"
+"+100% damage to Defense Towers and Keep Archers"
 END
 
 UPGRADE:KnightShield
@@ -11275,15 +11275,15 @@ CONTROLBAR:ToolTipBuildReinforcedGateUpgrade
 END
 
 CONTROLBAR:ToolTipBuildIronOreUpgrade
-"+20% steel production from Blacksmiths"
+"+50% steel production from Blacksmiths"
 END
 
 CONTROLBAR:ToolTipBuildGrandHarvestUpgrade
-"+40% resources from farms \n player must have a marketplace \n to use this upgrade"
+"+50% resources from farms"
 END
 
 CONTROLBAR:ToolTipBuildSiegeMaterialsUpgrade
-"Destroyed structures refund 50% of cost \n player must have marketplace \n to use this upgrade"
+"Destroyed structures refund 50% of cost"
 END
 
 CONTROLBAR:ToolTipBuildGondorForgedBladesPorter
@@ -12727,7 +12727,7 @@ CONTROLBAR:CaptainofGondor
 END
 
 CONTROLBAR:ToolTipCaptainofGondor
-"Required: Rank 6 \n Give targeted units experience \n left click then right click on target"
+"Required: Rank 5 \n Give targeted units experience \n left click then right click on target"
 END
 
 CONTROLBAR:FaramirWarSpeech
@@ -16254,6 +16254,14 @@ Map:MAPMPFordsofIsen/Desc
 "A crossing point of the River Isen, located near Isengard. \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Warg"
 END
 
+Map:MAPMPFordsofIsenII
+"Fords of Isen II"
+END
+
+Map:MAPMPFordsofIsenII/Desc
+"A crossing point of the River Isen, located near Isengard. Credits: Pallando \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Troll, Goblin and Warg"
+END
+
 Map:MAPMPGapofRohan/Desc
 "The only large and easily traversable pass between the Misty Mountains and the White Mountains. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 6 \n Settlements: 12 \n Lairs: Troll and Goblin"
 END
@@ -16427,7 +16435,7 @@ OBJECT:GondorStoneworkerDescription
 END
 
 OBJECT:GondorMarketPlaceDescription
-"Most upgrades are lost if you do not own a Marketplace."
+"Purchase Economy Uppgrades."
 END
 
 OBJECT:GondorStatueDescription
