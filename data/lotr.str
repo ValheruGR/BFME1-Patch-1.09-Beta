@@ -32137,3 +32137,164 @@ END
 Map:MAPMPDunland/Desc
 "West of the Misty Mountains lies Dunland, a hilly region whose warlike people are under the dark influence of Isengard. Credits: _Haldir_ \n Number of Players: 7 \n Starting Positions: Camps \n Expansion Points: 3 \n Settlements: 7 \n Lairs: Troll and Warg"
 END
+
+Map:MAPMPEnedwaithII
+"Enedwaith II"
+END
+
+Map:MAPMPEnedwaithII/Desc
+"A wide, open land that lies to the west of Rohan. \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 17 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
+END
+
+Map:MAPMPDruadanForestWinter
+"Druadan Forest Winter"
+END
+
+Map:MAPMPDruadanForestWinter/Desc
+"An old forest at the foot of the White Mountains, to the northwest of Minas Tirith. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 4 \n Settlements: 16 \n Lairs: Goblin"
+END
+
+Map:MAPMPAndrastWinter
+"Andrast Winter"
+END
+
+Map:MAPMPAndrastWinter/Desc
+"The southwest border of Gondor between the Bay of Belfalas and the Great Sea. Credits: Rimli \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Warg"
+END
+
+Map:MAPMPCarnenWinter
+"Carnen Winter"
+END
+
+Map:MAPMPCarnenWinter/Desc
+"The Carnen flows down from the Iron Hills. It is known as the Redwater, because the iron from the mountains gives it a red tinge. Credits: m@tt \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Goblin and Warg"
+End
+
+Map:MAPMPCarrockWinter
+"Carrock Winter"
+END
+
+Map:MAPMPCarrockWinter/Desc
+"A tall rock rises out of the Anduin, it was named The Carrock by Beorn, whom carved its stairs. Credits: BadMadMax \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 9 \n Lairs: Troll, Goblin and Warg"
+END
+
+Map:MAPMPFordsofIsenWinter
+"Fords of Isen Winter"
+END 
+
+Map:MAPMPFordsofIsenWinter/Desc
+"A crossing point of the River Isen, located near Isengard. \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Warg"
+END
+
+Map:MAPMPAnorienWinter
+"Anorien Winter"
+END
+
+Map:MAPMPAnorienWinter/Desc
+"The northwestern territory of Gondor that forms the border between Gondor and Rohan. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 1 \n Settlements: 8 \n Lairs: Troll and Warg"
+END
+
+Map:MAPMPHarlondWinter
+"Harlond Winter"
+END
+
+Map:MAPMPHarlondWinter/Desc
+"The port and docks of Minas Tirith, where Aragorn and the Army of the Dead came ashore during the battle for Minas Tirith. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 1 \n Settlements: 8 \n Lairs: Warg and Goblin"
+END
+
+Map:MAPMPWoldWinter
+"Wold Winter"
+END
+
+Map:MAPMPWoldWinter/Desc
+"An old, desolate area to the north of the Summit of Amon Hen. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 6 \n Settlements: 14 \n Lairs: Goblin and Warg"
+END
+
+Map:MAPMPLebenninWinter
+"Lebennin Winter"
+END
+
+Map:MAPMPLebenninWinter/Desc
+"This lush, green land in southern Gondor lies where the Anduin River completes its journey into the Bay of Belfalas. \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 12 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
+END
+
+Map:MAPMPRhunWinter
+"Rhun Winter"
+END
+
+Map:MAPMPRhunWinter/Desc
+"The mysterious eastern lands of Middle-earth, around the Sea of Rhun. \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 6 \n Settlements: 18 \n Lairs: Troll"
+END
+
+Map:MAPMPGorgoroth
+"Gorgoroth"
+END
+
+Map:MAPMPGorgoroth/Desc
+"The dark plain of Gorgoroth lies in Mordor, in the area surrounding Mt Doom. It is a barren wasteland, marked with lava and steaming fissures. Credits: Dennis Agodzo \n Number of players: 6 \n Starting positions: Camps \n Expansion points: 1 \n Settlements: 8 \n Lairs: Goblin"
+END
+
+Map:MAPMPFangornII
+"Fangorn II"
+END
+
+Map:MAPMPFangornII/Desc
+"Fangorn Forest is a mysterious and dark woodland that grows beneath the southern Misty Mountains. It is the habitat of Treebeard and the Ents. Special Thanks: BFMEOrange, ICT \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 3 \n Settlements: 10 \n Lairs: Goblin, Warg and Troll"
+END
+
+Map:MAPMPDorwinion
+"Dorwinion"
+END
+
+Map:MAPMPDorwinion/Desc
+"The wine that comes from the vineyards on these hills are a favourite of the King of Mirkwood. Credits: m@tt \n Number of Players: 4 \n Starting Positions: Castles \n Expansion points: 2 \n Settlements: 12 \n Lairs: Warg"
+END
+
+Map:MAPMPEasternFangorn
+"Eastern Fangorn"
+END
+
+Map:MAPMPEasternFangorn/Desc
+"Fangorn Forest lies on the southern foothills of the Misty Mountains, from which flows the Entwash River. Credits: VoodooBenshee (MEVault) \n Number of Players: 2 \n Starting Positions: Castles \n Expansion points: 2 \n Settlements: 14 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPAdorn
+"Adorn"
+END
+
+Map:MAPMPAdorn/Desc
+"The Adorn River flows from the White Mountains until it joins the River Isen, forming the far western boundary of Rohan. Credits: Dadou \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 16 \n Lairs: Goblin"
+END
+
+Map:MAPMPErynVorn
+"Eryn Vorn"
+END
+
+Map:MAPMPErynVorn/Desc
+"The Eryn Vorn lies on the tip of Minhiriath, and is inhabited by a few secretive hunter-folk. Credits:_Haldir_ \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 3 \n Settlements: 8 \n Lairs: Warg and Troll"
+END
+
+Map:MAPMPMinhiriath
+"Minhiriath"
+END
+
+Map:MAPMPMinhiriath/Desc
+"Minhiriath lies between the Greyflood and Brandywine rivers, in the region of Eriador. Once populated, it has since fallen into ruin. Credits: _Haldir_ \n Number of Players: 7 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 21 \n Lairs: Warg and Troll"
+END
+
+Map:MAPMPLondDaerEnedh
+"Lond Daer Enedh"
+END
+
+MAP:MAPMPLondDaerEnedh/Desc
+"This ancient Numenorean city lies on the mouth of the Greyflood River, and has since fallen into ruin. Credits: _Haldir_ \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 4 \n Settlements: 12 \n Lairs: Warg and Goblin"
+END
+
+MAP:MAPMPThorLebenin
+"Thor Lebenin"
+END
+
+Map:MAPMPThorLebenin/Desc
+"This lush, green land in southern Gondor lies where the Anduin River completes its journey into the Bay of Belfalas. \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 12 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
+END
+
