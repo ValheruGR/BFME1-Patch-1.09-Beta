@@ -12347,7 +12347,7 @@ CONTROLBAR:HorseLordLeadership
 END
 
 CONTROLBAR:ToolTipEomerLeadership
-"Required: Rank 1 \n Leadership bonus to nearby Cavalry \n +75% Damage \n Passive ability"
+"Required: Rank 1 \n Leadership bonus to nearby Cavalry \n +60% Damage \n Passive ability"
 END
 
 CONTROLBAR:ToolTipGandalfLeadership
@@ -32231,7 +32231,7 @@ Map:MAPMPGorgoroth
 END
 
 Map:MAPMPGorgoroth/Desc
-"The dark plain of Gorgoroth lies in Mordor, in the area surrounding Mt Doom. It is a barren wasteland, marked with lava and steaming fissures. Credits: Dennis Agodzo \n Number of players: 6 \n Starting positions: Camps \n Expansion points: 1 \n Settlements: 8 \n Lairs: Goblin"
+"The dark plain of Gorgoroth lies in Mordor, in the area surrounding Mt Doom. It is a barren wasteland, marked with lava and steaming fissures. Credits: Dennis Agodzo \n Number of players: 6 \n Starting positions: Camps \n Expansion points: 1 \n Settlements: 14 \n Lairs: Goblin, Warg and Troll"
 END
 
 Map:MAPMPFangornII
@@ -32247,7 +32247,7 @@ Map:MAPMPDorwinion
 END
 
 Map:MAPMPDorwinion/Desc
-"The wine that comes from the vineyards on these hills are a favourite of the King of Mirkwood. Credits: m@tt \n Number of Players: 4 \n Starting Positions: Castles \n Expansion points: 2 \n Settlements: 12 \n Lairs: Warg"
+"The wine that comes from the vineyards on these hills are a favourite of the King of Mirkwood. Credits: m@tt \n Number of Players: 4 \n Starting Positions: Castles \n Settlements: 12 \n Lairs: Troll, Goblin and Warg"
 END
 
 Map:MAPMPEasternFangorn
@@ -32255,7 +32255,7 @@ Map:MAPMPEasternFangorn
 END
 
 Map:MAPMPEasternFangorn/Desc
-"Fangorn Forest lies on the southern foothills of the Misty Mountains, from which flows the Entwash River. Credits: VoodooBenshee (MEVault) \n Number of Players: 2 \n Starting Positions: Castles \n Expansion points: 2 \n Settlements: 14 \n Lairs: Troll and Goblin"
+"Fangorn Forest lies on the southern foothills of the Misty Mountains, from which flows the Entwash River. Credits: VoodooBenshee (MEVault) \n Number of Players: 2 \n Starting Positions: Castles \n Expansion points: 2 \n Settlements: 12 \n Lairs: Troll and Goblin"
 END
 
 Map:MAPMPAdorn
@@ -32290,11 +32290,27 @@ MAP:MAPMPLondDaerEnedh/Desc
 "This ancient Numenorean city lies on the mouth of the Greyflood River, and has since fallen into ruin. Credits: _Haldir_ \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 4 \n Settlements: 12 \n Lairs: Warg and Goblin"
 END
 
-MAP:MAPMPThorLebenin
-"Thor Lebenin"
+MAP:MAPMPLebenninII
+"Lebennin II"
 END
 
-Map:MAPMPThorLebenin/Desc
-"This lush, green land in southern Gondor lies where the Anduin River completes its journey into the Bay of Belfalas. \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 12 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
+Map:MAPMPLebenninII/Desc
+"This lush, green land in southern Gondor lies where the Anduin River completes its journey into the Bay of Belfalas. \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 18 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
+END
+
+Map:MAPMPForlindon
+"Forlindon"
+END
+
+Map:MAPMPForlindon/Desc
+"The land of Forlindon lies north of the Gulf of Lhûn and the Elven harbour of Forlond. Credits: _Haldir_ \n Number of Players: 5 \n Starting Positions: Castles \n Settlements: 15 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPNanduhirion
+"Nanduhirion"
+END
+
+Map:MAPMPNanduhirion/Desc
+"This valley was the site of the decisive battle in the War of the Dwarves and Orcs. Credits: MattTheLegoman \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 5 \n Settlements: 20 \n Lairs: Troll, Goblin and Warg"
 END
 
