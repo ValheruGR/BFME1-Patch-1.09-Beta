@@ -12327,7 +12327,7 @@ CONTROLBAR:ToolTipSpecialAbilityShieldWall
 END
 
 CONTROLBAR:ToolTipFaramirLeadership
-"Required: Rank 4 \n Leadership bonus to nearby troops \n +50% Armor, +50% Attack to Gondor archers \n Passive ability"
+"Required: Rank 4 \n Leadership bonus to nearby troops \n +50% Armor \n Units nearby become invulnerable to fear \n Passive ability"
 END
 
 CONTROLBAR:ToolTipBoromirLeadership
@@ -16311,7 +16311,7 @@ Map:MAPMPNorthernIthilien/Desc
 END
 
 Map:MAPMPNurn/Desc
-"The southern lands of Mordor that surround a great inland sea. \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 3 \n Settlements: 8 \n Lairs: Troll \n Build Restrictions: No Siege Ladders or Towers"
+"The southern lands of Mordor that surround a great inland sea. \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 3 \n Settlements: 12 \n Lairs: Troll \n Build Restrictions: No Siege Ladders or Towers"
 END
 
 Map:MAPMPNurn2/Desc
@@ -32312,5 +32312,61 @@ END
 
 Map:MAPMPNanduhirion/Desc
 "This valley was the site of the decisive battle in the War of the Dwarves and Orcs. Credits: MattTheLegoman \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 5 \n Settlements: 20 \n Lairs: Troll, Goblin and Warg"
+END
+
+Map:MAPMPNurnII
+"Nurn II"
+END
+
+Map:MAPMPNurnII/Desc
+"The southern lands of Mordor that surround a great inland sea. Credits: EA & Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 1 \n Settlements: 14 \n Lairs: Troll \n Build Restrictions: No Siege Ladders or Towers"
+END
+
+Map:MAPMPCelebrant
+"Celebrant"
+END
+
+Map:MAPMPCelebrant/Desc
+"The fields south of Lorien have seen many battles over the years. Credits: BadMadMax \n Number of Players: 5 \n Starting Positions: Camps \n Settlements: 11 \n Lairs: Warg and Goblin"
+END
+
+Map:MAPMPUdun
+"Udun"
+END
+
+Map:MAPMPUdun/Desc
+"Surrounded by impenetrable mountain ranges, only two passes exist, the Morannon and Carach Angren. No one enters or leaves Udun, Gondor keeps watch in the shadow of Mordor. \n Number of Players: 4 \n Settlements: 16 \n Starting Positions: Castles \n Lairs: Goblin, Warg, Troll"
+END
+
+Map:MAPMPNevrast
+"Nevrast"
+END
+
+Map:MAPMPNevrast/Desc
+"A sheltered land on the west coast of Middle-earth in the First Age, located between Hithlum to the north northeast and West Beleriand to the south. \n Number of Players: 8 \n Settlements: 28 \n Starting Posistions: Camps \n Lairs: Goblin, Troll \n Expansions: 5"
+END
+
+Map:MAPMPNimrodel
+"Nimrodel"
+END
+
+Map:MAPMPNimrodel/Desc
+"A river of Lothlórien, the Nimrodel flows down from the Misty Mountains before joining the Silverlode. Its waters are said to heal weariness. Credits: Fudge \n Number of Players: 5 \n Starting Positions: Castles \n Expansion Points: 1 \n Settlements: 15 \n Lairs: Goblin and Warg"
+END
+
+Map:MAPMPGreenHillCountry
+"Green Hill Country"
+END
+
+Map:MAPMPGreenHillCountry/Desc
+"A region north of the Shire, home to the Great Smials, the ancestral home of the Tooks. Credits: Amroth \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Warg and Goblin"
+END
+
+Map:MAPMPWeathertop
+"Weathertop"
+END
+
+Map:MAPMPWeathertop/Desc
+"The once proud tower of Amon Sul became ruined after the evil from Angmar attacked the northern lands. Credits: m@tt \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Troll and Goblin"
 END
 
