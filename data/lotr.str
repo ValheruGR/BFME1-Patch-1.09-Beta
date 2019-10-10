@@ -32370,3 +32370,139 @@ Map:MAPMPWeathertop/Desc
 "The once proud tower of Amon Sul became ruined after the evil from Angmar attacked the northern lands. Credits: m@tt \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Troll and Goblin"
 END
 
+Map:MAPMPTheShire
+"The Shire"
+END
+
+Map:MAPMPTheShire/Desc
+"A green, peaceful land. Home of the Hobbits of Middle-earth. \n Number of Players: 6 \n Settlements: 16 \n Expansions: 4 \n Starting Positions: Camps \n Lairs: Warg"
+END
+
+Map:MAPMPRiverPoros
+"River Poros"
+END
+
+Map:MAPMPRiverPoros/Desc
+"Poros was a small river in the southeastern corner of Gondor flowing into the Anduin. It formed the northern border of the disputed land of Harondor and the southern boundary of Ithilien. \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Goblin, Warg and Troll"
+END
+
+Map:MAPMPAngmar
+"Angmar"
+END
+
+Map:MAPMPAngmar/Desc
+"Of old, this was the realm of the Witch-king, but it was deserted and is now a dark and barren land. Credits: Steve Campen (High Elven Lord) \n Number of Players: 2 \nStarting Positions: Camps \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Troll"
+END
+
+Map:MAPMPArnor
+"Arnor"
+END
+
+Map:MAPMPArnor/Desc
+"One of the Númenórean realms in exile, Arnor once encompassed the whole of Eriador. It has since fallen into ruin, uninhabited by all save the Dúnedain. Credits: _Haldir_ \n Number of Players: 6 \n Starting Positions: Castles \n Expansion Points: 4 \n Settlements: 12 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPBarrowDowns
+"Barrow Downs"
+END
+
+Map:MAPMPBarrowDowns/Desc
+"These ancient burial grounds were peaceful until evil spirits were sent from Angmar to occupy the graves. Credits: m@tt \n Number of Players: 4 \n Starting Positions: Camps \n Settlements: 5"
+END
+
+Map:MAPMPBlackrootVale
+"Blackroot Vale"
+END
+
+Map:MAPMPBlackrootVale/Desc
+"The Blackroot Vale is a dark valley in the shadows of the White Mountains. Credits: §Tattoo§ , MEVault \n Number of Players: 2 \n  Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 10 \n Lairs: Goblin"
+END
+
+Map:MAPMPCalembel
+"Calembel"
+END
+
+Map:MAPMPCalembel/Desc
+"The town of Calembel is located above the fords of the River Ciril, in Lamedon, one of Gondor's southern fiefdoms. Credits: LOTR Files \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 3 \n Settlements: 9 \n Lairs: Troll, Warg and Goblin"
+END
+
+Map:MAPMPHarrowdale
+"Harrowdale"
+END
+
+Map:MAPMPHarrowdale/Desc
+"A deep north-south valley cut out of the White Mountains by the Snowbourn River. At its southern end stands Dunharrow. Credits: Fudge \n Number of Players: 3 \n Starting Positions: Camps \n Expansion Points: 3 \n Settlements: 8 \n Lairs: Trolls and Wargs"
+END
+
+Map:MAPMPLithlad
+"Lithlad"
+END
+
+Map:MAPMPLithlad/Desc
+"A great ashy plain that lies to the east of Barad-dûr in Mordor. Credits: Steve Campen (High Elven Lord) \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 4 \n Lairs: Troll"
+END
+
+Map:MAPMPAnduin
+"Anduin"
+END
+
+Map:MAPMPAnduin/Desc
+"The Anduin flows south between the Misty Mountains and Mirkwood, and the ford is part of the Old Forest Road. Credits: m@tt \n Number of Player: 4 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 12 \n Lairs: Goblins"
+END
+
+Map:MAPMPMountainsOfMirkwood
+"Mountains of Mirkwood"
+END
+
+Map:MAPMPMountainsOfMirkwood/Desc
+"A range of high hills in the dense forest of Mirkwood, from which the Enchanted Stream flows down. Credits: m@tt \n Number of Players: 2 \n Starting Positions: Castles \n Settlements: 9 \n Lairs: Goblin"
+END
+
+Map:MAPMPMouthOfCelduin
+"Mouth of Celduin"
+END
+
+Map:MAPMPMouthOfCelduin/Desc
+"The Celduin, or the River Running, flows from Erebor until it meets the River Carnen. It continues south until it finally meets the Sea of Rhûn. Credits: Fudge \n   Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 11 \n Lairs: Troll and Warg"
+END
+
+Map:MAPMPRiverCelos
+"River Celos"
+END
+
+Map:MAPMPRiverCelos/Desc
+"The River Celos is a tributary of the River Sirith, in Lebennin, Gondor. Its name is derived from the rocky spring from which it flows. Credits: Fudge \n Number of Players: 5 \n Starting Positions: Camps \n Expansion Points: 5 \n Settlements: 14 \n Lairs: Goblin and Warg"
+END
+
+Map:MAPMPValesOfCelduin
+"Vales of Celduin"
+END
+
+Map:MAPMPValesOfCelduin/Desc
+"The River Running flows down from Erebor and is joined by many tributaries on its way to the Sea of Rhûn. Credits: SnoopyZero \n Number of Players: 5 \n Starting Positions: Camps \n Expansion Points: 3 \n Settlements: 9 \n Lairs: Troll, Warg and Goblin"
+END
+
+Map:MAPMPRhudaur
+"Rhudaur"
+END
+
+Map:MAPMPRhudaur/Desc
+"These lands were once controlled by the forces of Angmar, but are now deserted. Credits: S@uron2000 \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 4 \n Settlements: 10 \n Lairs: Troll, Warg and Goblin"
+END
+
+Map:MAPMPOldForestRoad
+"Old Forest Road"
+END
+
+Map:MAPMPOldForestRoad/Desc
+"The Old Forest Road was an acient dwarven road than ran through Mirkwood. Map by SilverBane` \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 6 \n Lairs: Warg and Goblin"
+END
+
+Map:MAPMPErech
+"Erech"
+END
+
+Map:MAPMPErech/Desc
+"The site of a misterious alien rock crash. -Athieric. \n Credits: SilverBane` \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 6 \n Lairs: Troll and Goblin"
+END
+
