@@ -32506,3 +32506,34 @@ Map:MAPMPErech/Desc
 "The site of a misterious alien rock crash. -Athieric. \n Credits: SilverBane` \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 6 \n Lairs: Troll and Goblin"
 END
 
+Map:MAPMPWestfoldII
+"Westfold II"
+END
+
+Map:MAPMPWestfoldII/Desc
+"A rocky, lightly wooded land in the western region of Rohan. \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 10 \n Lairs: Troll, Goblin and Warg"
+END
+
+MAP:MAPMPLebenninNm
+"Lebennin NM"
+END
+
+MAP:MAPMPLebenninNm/Desc
+"No Mordor. Credits: Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 18 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
+END
+
+Map:MAPMPNanduhirionNm
+"Nanduhirion NM"
+END
+
+Map:MAPMPNanduhirionNm/Desc
+"No Mordor. Credits: MattTheLegoman & Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 5 \n Settlements: 20 \n Lairs: Troll, Goblin and Warg"
+END
+
+MAP:MAPMPLebenninIINM
+"Lebennin II NM"
+END
+
+Map:MAPMPLebenninIINM/Desc
+"No Mordor. Credits: Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 18 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
+END
