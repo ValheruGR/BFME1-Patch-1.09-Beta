@@ -32537,3 +32537,103 @@ END
 Map:MAPMPLebenninIINM/Desc
 "No Mordor. Credits: Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 18 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
 END
+
+Map:MAPMPTheShireNM
+"The Shire NM"
+END
+
+Map:MAPMPTheShireNM/Desc
+"No Mordor. Credits: Yoshi \n Number of Players: 6 \n Settlements: 16 \n Expansions: 4 \n Starting Positions: Camps \n Lairs: Warg"
+END
+
+Map:MAPMPGorgorothNM
+"Gorgoroth NM"
+END
+
+Map:MAPMPGorgorothNM/Desc
+"No Mordor. Credits: Dennis Agodzo & Yoshi \n Number of players: 6 \n Starting positions: Camps \n Expansion points: 1 \n Settlements: 14 \n Lairs: Goblin, Warg and Troll"
+END
+
+Map:MAPMPLondDaerEnedhNM
+"Lond Daer Enedh NM"
+END
+
+MAP:MAPMPLondDaerEnedhNM/Desc
+"No Mordor. Credits: _Haldir_ & Yoshi \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 4 \n Settlements: 12 \n Lairs: Warg and Goblin"
+END
+
+Map:MAPMPNurnIINM
+"Nurn II NM"
+END
+
+Map:MAPMPNurnIINM/Desc
+"No Mordor. Credits: Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 1 \n Settlements: 14 \n Lairs: Troll \n Build Restrictions: No Siege Ladders or Towers"
+END
+
+
+Map:MAPMPNevrastNM
+"Nevrast NM"
+END
+
+Map:MAPMPNevrastNM/Desc
+"No Mordor. Credits: Yoshi \n Number of Players: 8 \n Settlements: 28 \n Starting Posistions: Camps \n Lairs: Goblin, Troll \n Expansions: 5"
+END
+
+Map:MAPMPDagorladNM
+"Dagorlad NM"
+END
+
+Map:MAPMPDagorladNM/Desc
+"No Mordor. Credits: Yoshi"
+END
+
+Map:MAPMPNurnNM
+"Nurn NM"
+END
+
+Map:MAPMPNurnNM/Desc
+"No Mordor. Credits: EA & Yoshi \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 3 \n Settlements: 12 \n Lairs: Troll \n Build Restrictions: No Siege Ladders or Towers"
+END
+
+Map:MAPMPRhunNM
+"Rhun NM"
+END
+
+Map:MAPMPRhunNM/Desc
+"No Mordor. Credits: Yoshi"
+END
+
+
+Map:MAPMPEnedwaithIINM
+"Enedwaith II NM"
+END
+
+Map:MAPMPEnedwaithIINM/Desc
+"No Mordor. Credits: Pallando & Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 17 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
+END
+
+Map:MAPMPAnfalasIINM
+"Anfalas II NM"
+END
+
+Map:MAPMPAnfalasIINM/Desc
+"No Mordor. Credits: Yoshi."
+END
+
+Map:MAPMPWoldNM
+"Wold NM"
+END
+
+Map:MAPMPWoldNM/Desc
+"No Mordor. Credits: Yoshi \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 6 \n Settlements: 14 \n Lairs: Goblin and Warg"
+END
+
+
+Map:MAPMPOldBrownLandsNM
+"Old Brown Lands NM"
+END
+
+Map:MAPMPOldBrownLandsNM/Desc
+"No Mordor. Credits: Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Settlements: 16 \n Lairs: Goblin"
+END
+
