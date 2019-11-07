@@ -16423,7 +16423,7 @@ OBJECT:GondorStablesDescription
 END
 
 OBJECT:GondorWorkshopDescription
-"Rank 2: +25% Faster Build Speed \n Rank 3: +50% Faster Build Speed"
+"Rank 2: Increased Building Durability \n Rank 3: Further Increased Durability"
 END
 
 OBJECT:GondorBlacksmithDescription
@@ -32519,7 +32519,7 @@ MAP:MAPMPLebenninNm
 END
 
 MAP:MAPMPLebenninNm/Desc
-"No Mordor. Credits: Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 18 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
+"No Mordor. Credits: Yoshi \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 12 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
 END
 
 Map:MAPMPNanduhirionNm
@@ -32637,3 +32637,18 @@ Map:MAPMPOldBrownLandsNM/Desc
 "No Mordor. Credits: Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Settlements: 16 \n Lairs: Goblin"
 END
 
+Map:MAPMPDeadMarshesIINM
+"Dead Marshes II NM"
+END
+
+Map:MAPMPDeadMarshesIINM/Desc
+"No Mordor. Credits: Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 18 \n Lairs: Goblin, Warg, and Troll."
+END
+
+Map:MAPMPDeadMarshesII
+"Dead Marshes II"
+END
+
+Map:MAPMPDeadMarshesII/Desc
+"A hunted swampland, lying just outside Mordor. Gollum led Frodo and Sam through these lands on their way to Mordor. Credits: Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 18 \n Lairs: Goblin, Warg, and Troll."
+END
