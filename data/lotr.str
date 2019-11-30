@@ -12819,7 +12819,7 @@ CONTROLBAR:Disguise
 END
 
 CONTROLBAR:ToolTipDisguise
-"Required: Rank 4 \n Disguise as a normal Rohirrim \n left click to activate"
+"Required: Rank 2 \n Disguise as a normal Rohirrim \n left click to activate"
 END
 
 CONTROLBAR:Smite
@@ -12835,7 +12835,7 @@ CONTROLBAR:ShieldMaiden
 END
 
 CONTROLBAR:ToolTipShieldMaiden
-"Required: Rank 5 \n Armor increased 50% \n left click to activate"
+"Required: Rank 3 \n Armor increased 50% \n left click to activate"
 END
 
 CONTROLBAR:ToggleTrebWeapon
@@ -32651,4 +32651,36 @@ END
 
 Map:MAPMPDeadMarshesII/Desc
 "A hunted swampland, lying just outside Mordor. Gollum led Frodo and Sam through these lands on their way to Mordor. Credits: Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 18 \n Lairs: Goblin, Warg, and Troll."
+END
+
+Map:MAPMPTheShire4p
+"The Shire 4p"
+END
+
+Map:MAPMPTheShire4p/Desc
+"A green, peaceful land. Home of the Hobbits of Middle-earth. \n Number of Players: 4 \n Settlements: 14 \n Expansions: 4 \n Starting Positions: Camps \n Lairs: Warg"
+END
+
+Map:MAPMPTolfalas
+"Tolfalas"
+END
+
+Map:MAPMPTolfalas/Desc
+"A barren mountainous island in the Bay of Belfalas. Once inhabited by natives of the Either Anduin. \n Number of Players: 2 \n Settlements: 12 \n Expansions: 2 \n Starting Positions: Castles \n Lairs: Warg"
+END
+
+Map:MAPMPRammasEchor
+"Rammas Echor"
+END
+
+Map:MAPMPRammasEchor/Desc
+"The great wall that surrounded the provinces of Minas Tirith and Fields of the Pelennor. \n Number of Players: 8 \n Settlements: 24 \n Expansions: 1 \n Starting Positions: Camps \n Lairs: Goblin, Warg"
+END
+
+Map:MAPMPRammasEchorNM
+"Rammas Echor NM"
+END
+
+Map:MAPMPRammasEchorNm/Desc
+"No Mordor"
 END
