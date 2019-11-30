@@ -32674,7 +32674,7 @@ Map:MAPMPRammasEchor
 END
 
 Map:MAPMPRammasEchor/Desc
-"The great wall that surrounded the provinces of Minas Tirith and Fields of the Pelennor. \n Number of Players: 8 \n Settlements: 24 \n Expansions: 1 \n Starting Positions: Camps \n Lairs: Goblin, Warg"
+"The great wall that surrounded the provinces of Minas Tirith and Fields of the Pelennor. Credits: MattTheLegoman \n Number of Players: 8 \n Settlements: 24 \n Expansions: 1 \n Starting Positions: Camps \n Lairs: Goblin, Warg"
 END
 
 Map:MAPMPRammasEchorNM
@@ -32682,5 +32682,22 @@ Map:MAPMPRammasEchorNM
 END
 
 Map:MAPMPRammasEchorNm/Desc
-"No Mordor"
+"The great wall that surrounded the provinces of Minas Tirith and Fields of the Pelennor. Credits: MattTheLegoman \n Number of Players: 8 \n Settlements: 24 \n Expansions: 1 \n Starting Positions: Camps \n Lairs: Goblin, Warg"
 END
+
+Map:MAPMPPelennorFields
+"Pelennor Fields"
+END
+
+Map:MAPMPPelennorFields/Desc
+"Once Mordor took Osgiliath, Gondor were unable to hold the defences leading to Minas Tirith. The orcs blasted breaches into the Rammas Echor and their hordes quickly filled the Pelennor Fields. Credits: MattTheLegoman  \n Number of Players: 8 \n Settlements: 20 \n Expansions: 4 \n Starting Positions: Camps \n Lairs: Goblin, Warg, Troll"
+END
+
+Map:MAPMPPelennorFieldsNm
+"Pelennor Fields NM"
+END
+
+Map:MAPMPPelennorFieldsNm/Desc
+"Once Mordor took Osgiliath, Gondor were unable to hold the defences leading to Minas Tirith. The orcs blasted breaches into the Rammas Echor and their hordes quickly filled the Pelennor Fields. Credits: MattTheLegoman  \n Number of Players: 8 \n Settlements: 20 \n Expansions: 4 \n Starting Positions: Camps \n Lairs: Goblin, Warg, Troll"
+END
+
