@@ -11275,11 +11275,11 @@ CONTROLBAR:ToolTipBuildReinforcedGateUpgrade
 END
 
 CONTROLBAR:ToolTipBuildIronOreUpgrade
-"+50% steel production from Blacksmiths"
+"+20% steel production from Blacksmiths"
 END
 
 CONTROLBAR:ToolTipBuildGrandHarvestUpgrade
-"+50% resources from farms"
+"+40% resources from farms"
 END
 
 CONTROLBAR:ToolTipBuildSiegeMaterialsUpgrade
@@ -12183,7 +12183,7 @@ CONTROLBAR:ConstructMordorDrummerTrolls
 END
 
 CONTROLBAR:DescriptionConstructMordorDrummerTrolls
-"Passive Ability \n Leadership bonus for infantry, cavalry, trolls , mumakil and artillery: \n +50% Armor, +50% Damage +100% Experience"
+"Passive Ability \n Leadership bonus for infantry, trolls , mumakil and artillery: \n +50% Armor, +50% Damage +100% Experience"
 END
 
 CONTROLBAR:TooltipConstructMordorDrummerTrolls
@@ -12327,7 +12327,7 @@ CONTROLBAR:ToolTipSpecialAbilityShieldWall
 END
 
 CONTROLBAR:ToolTipFaramirLeadership
-"Required: Rank 4 \n Leadership bonus to nearby troops \n +50% Armor \n Units nearby become invulnerable to fear \n Passive ability"
+"Required: Rank 5\n Leadership bonus to nearby troops \n +50% Armor \n Units nearby become invulnerable to fear \n Passive ability"
 END
 
 CONTROLBAR:ToolTipBoromirLeadership
@@ -12727,7 +12727,7 @@ CONTROLBAR:CaptainofGondor
 END
 
 CONTROLBAR:ToolTipCaptainofGondor
-"Required: Rank 5 \n Give targeted units experience \n left click then right click on target"
+"Required: Rank 6 \n Give targeted units experience \n left click then right click on target"
 END
 
 CONTROLBAR:FaramirWarSpeech
@@ -31951,7 +31951,7 @@ CONTROLBAR:TowerFlag
 END
 
 CONTROLBAR:ToolTipSarumanLeadership
-"Leadership bonus and fear invulnerability to nearby troops \n +50% Attack, +50% Armor, \n Passive ability"
+"Leadership bonus and fear invulnerability to nearby troops \n +50% Attack, +30% Armor \n Passive ability"
 END
 
 OBJECT:RohanOutpost
@@ -32487,7 +32487,7 @@ Map:MAPMPRhudaur
 END
 
 Map:MAPMPRhudaur/Desc
-"These lands were once controlled by the forces of Angmar, but are now deserted. Credits: S@uron2000 \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 4 \n Settlements: 10 \n Lairs: Troll, Warg and Goblin"
+"These lands were once controlled by the forces of Angmar, but are now deserted. Credits: S@uron2000 & Quegga \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 4 \n Settlements: 10 \n Lairs: Troll, Warg and Goblin"
 END
 
 Map:MAPMPOldForestRoad
@@ -32527,7 +32527,7 @@ Map:MAPMPNanduhirionNm
 END
 
 Map:MAPMPNanduhirionNm/Desc
-"No Mordor. Credits: MattTheLegoman & Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 5 \n Settlements: 20 \n Lairs: Troll, Goblin and Warg"
+"No Mordor. Credits: MattTheLegoman \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 5 \n Settlements: 20 \n Lairs: Troll, Goblin and Warg"
 END
 
 MAP:MAPMPLebenninIINM
@@ -32543,7 +32543,7 @@ Map:MAPMPTheShireNM
 END
 
 Map:MAPMPTheShireNM/Desc
-"No Mordor. Credits: Yoshi \n Number of Players: 6 \n Settlements: 16 \n Expansions: 4 \n Starting Positions: Camps \n Lairs: Warg"
+"No Mordor. \n Number of Players: 6 \n Settlements: 16 \n Expansions: 4 \n Starting Positions: Camps \n Lairs: Warg"
 END
 
 Map:MAPMPGorgorothNM
@@ -32551,7 +32551,7 @@ Map:MAPMPGorgorothNM
 END
 
 Map:MAPMPGorgorothNM/Desc
-"No Mordor. Credits: Dennis Agodzo & Yoshi \n Number of players: 6 \n Starting positions: Camps \n Expansion points: 1 \n Settlements: 14 \n Lairs: Goblin, Warg and Troll"
+"No Mordor. Credits: Dennis Agodzo \n Number of players: 6 \n Starting positions: Camps \n Expansion points: 1 \n Settlements: 14 \n Lairs: Goblin, Warg and Troll"
 END
 
 Map:MAPMPLondDaerEnedhNM
@@ -32559,7 +32559,7 @@ Map:MAPMPLondDaerEnedhNM
 END
 
 MAP:MAPMPLondDaerEnedhNM/Desc
-"No Mordor. Credits: _Haldir_ & Yoshi \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 4 \n Settlements: 12 \n Lairs: Warg and Goblin"
+"No Mordor. Credits: _Haldir_ \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 4 \n Settlements: 12 \n Lairs: Warg and Goblin"
 END
 
 Map:MAPMPNurnIINM
@@ -32576,7 +32576,7 @@ Map:MAPMPNevrastNM
 END
 
 Map:MAPMPNevrastNM/Desc
-"No Mordor. Credits: Yoshi \n Number of Players: 8 \n Settlements: 28 \n Starting Posistions: Camps \n Lairs: Goblin, Troll \n Expansions: 5"
+"No Mordor. \n Number of Players: 8 \n Settlements: 28 \n Starting Posistions: Camps \n Lairs: Goblin, Troll \n Expansions: 5"
 END
 
 Map:MAPMPDagorladNM
@@ -32584,7 +32584,7 @@ Map:MAPMPDagorladNM
 END
 
 Map:MAPMPDagorladNM/Desc
-"No Mordor. Credits: Yoshi"
+"No Mordor."
 END
 
 Map:MAPMPNurnNM
@@ -32600,7 +32600,7 @@ Map:MAPMPRhunNM
 END
 
 Map:MAPMPRhunNM/Desc
-"No Mordor. Credits: Yoshi"
+"No Mordor."
 END
 
 
@@ -32609,7 +32609,7 @@ Map:MAPMPEnedwaithIINM
 END
 
 Map:MAPMPEnedwaithIINM/Desc
-"No Mordor. Credits: Pallando & Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 17 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
+"No Mordor. Credits: Pallando \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 17 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
 END
 
 Map:MAPMPAnfalasIINM
@@ -32617,7 +32617,7 @@ Map:MAPMPAnfalasIINM
 END
 
 Map:MAPMPAnfalasIINM/Desc
-"No Mordor. Credits: Yoshi."
+"No Mordor."
 END
 
 Map:MAPMPWoldNM
@@ -32625,7 +32625,7 @@ Map:MAPMPWoldNM
 END
 
 Map:MAPMPWoldNM/Desc
-"No Mordor. Credits: Yoshi \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 6 \n Settlements: 14 \n Lairs: Goblin and Warg"
+"No Mordor. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 6 \n Settlements: 14 \n Lairs: Goblin and Warg"
 END
 
 
@@ -32634,7 +32634,7 @@ Map:MAPMPOldBrownLandsNM
 END
 
 Map:MAPMPOldBrownLandsNM/Desc
-"No Mordor. Credits: Yoshi \n Number of Players: 8 \n Starting Positions: Camps \n Settlements: 16 \n Lairs: Goblin"
+"No Mordor. \n Number of Players: 8 \n Starting Positions: Camps \n Settlements: 16 \n Lairs: Goblin"
 END
 
 Map:MAPMPDeadMarshesIINM
@@ -32700,4 +32700,109 @@ END
 Map:MAPMPPelennorFieldsNm/Desc
 "Once Mordor took Osgiliath, Gondor were unable to hold the defences leading to Minas Tirith. The orcs blasted breaches into the Rammas Echor and their hordes quickly filled the Pelennor Fields. Credits: MattTheLegoman  \n Number of Players: 8 \n Settlements: 20 \n Expansions: 4 \n Starting Positions: Camps \n Lairs: Goblin, Warg, Troll"
 END
+
+Map:MAPMPFarHarad
+"Far Harad"
+END
+
+Map:MAPMPFarHarad/Desc
+"Deep in southern Middle-earth, the region of Far Harad is the homeland of the wild Haradrim, loyal servants of Sauron. \n Number of Players: 4 \n Settlements: 10 \n Expansions: 1 \n Starting Positions: Castles \n Lairs: Warg, Troll"
+END
+
+Map:MAPMPDruadanForestNM
+"Druadan Forest NM"
+END
+
+Map:MAPMPDruadanForestNM/Desc
+"No Mordor"
+END
+
+Map:MAPMPMouthsofEntwashNM
+"Mouths of Entwash NM"
+END
+
+Map:MAPMPMouthsofEntwashNM/Desc
+"No Mordor."
+END
+
+Map:MAPMPCentralIthilienII
+"Central Ithilien II"
+END
+
+Map:MAPMPCentralIthilienII/Desc
+"A land in eastern Gondor, bordering the mountains that divide Gondor from Mordor. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 4 \n Settlements: 12 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPOsgiliathII
+"Osgiliath II"
+END
+
+Map:MAPMPOsgiliathII/Desc
+"This Gondor city is the last line of defense between Mordor and Minas Tirith. The Anduin River runs through the center of the city. \n Number of Players: 4 \n Starting Positions: Camps \n Expansion Points: 4 \n Settlements: 12 \n Lairs: Troll and Goblin \n Build Restrictions: No Siege Ladders, Siege Towers or Mumakil"
+END
+
+Map:MAPMPPelargirII
+"Pelargir II"
+END
+
+Map:MAPMPPelargirII/Desc
+"An ancient port city of Gondor that lies at the mouth of the Anduin River. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 6 \n Settlements: 12 \n Lairs: Goblin and Warg"
+END
+
+Map:MAPMPMtDoomII
+"Mount Doom II"
+END
+
+Map:MAPMPMtDoomII/Desc
+"In this volcano, the One Ring was forged by Sauron. Here the One Ring was eventually destroyed by the Hobbit Frodo Baggins. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Troll and Goblin \n Build Restrictions: No Siege Ladders, Siege Towers or Mumakil"
+END
+
+Map:MAPMPGapofRohanII
+"Gap of Rohan II"
+END
+
+Map:MAPMPGapofRohanII/Desc
+"The only large and easily traversable pass between the Misty Mountains and the White Mountains. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 6 \n Settlements: 12 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPEmynMuilII
+"Emyn Muil II"
+END
+
+Map:MAPMPEmynMuilII/Desc
+"Dark, rocky labyrinthine hills that Gollum led Frodo and Sam through on their way to Mordor. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Troll"
+END
+
+Map:MAPMPCrossroadsII
+"Crossroads II"
+END
+
+Map:MAPMPCrossroadsII/Desc
+"The place where the ancient Gondor road to Minas Morgul crosses the Harad road. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 6 \n Settlements: 10 \n Lairs: Goblin"
+END
+
+Map:MAPMPLamedonIINM
+"Lamedon II NM"
+END
+
+Map:MAPMPLamedonIINM/Desc
+"Camps, No Mordor."
+END
+
+Map:MAPMPKhand
+"Khand"
+END
+
+Map:MAPMPKhand/Desc
+"A dry and barren land to the east of Harad, whose many tribes have pledged allegiance to Sauron. Credits: m@tt \n Number of Players: 8 \n Starting Positions: Camps \n Expansion Points: 4 \n Settlements: 18 \n Lairs: Goblin, Warg, Troll"
+END
+
+Map:MAPMPKhandNM
+"Khand NM"
+END
+
+Map:MAPMPKhandNM/Desc
+"No Mordor."
+END
+
 
